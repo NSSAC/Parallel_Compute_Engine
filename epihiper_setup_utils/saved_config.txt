@@ -1,0 +1,6 @@
+vpc_id:vpc-0c72b7554e923462a
+igw_id:igw-0d0060d20ec1e8823
+rtb_id:rtb-0eb75216f6f94ec03
+subnet_id:subnet-0d1c39ed5f1d496de
+sec_group_id:sg-05474ca1ce1dbca6c
+instance_id:i-053e260c2348831d8
